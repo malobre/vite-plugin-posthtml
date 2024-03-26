@@ -4,7 +4,7 @@
 
 1. Install 
     ```shell
-    npm install --save-dev https://github.com/malobre/vite-plugin-posthtml.git
+    npm install --save-dev @malobre/vite-plugin-posthtml
     ```
 1. Add plugin to your vite config
     ```js
