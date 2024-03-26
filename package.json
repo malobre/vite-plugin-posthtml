@@ -1,6 +1,6 @@
 {
   "name": "@malobre/vite-plugin-posthtml",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "author": "Maël Obréjan <mael.obrejan@protonmail.com>",
   "license": "MIT",
   "type": "module",
