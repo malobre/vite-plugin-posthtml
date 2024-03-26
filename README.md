@@ -1,6 +1,5 @@
 # `@malobre/vite-plugin-posthtml`
 
-
 ## Usage
 
 1. Install 
