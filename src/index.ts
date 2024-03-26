@@ -2,7 +2,7 @@ import posthtml, {
   type Plugin as PostHTMLPlugin,
   type Options as PostHTMLOptions,
 } from "posthtml";
-import { type Plugin as VitePlugin } from "vite";
+import type { Plugin as VitePlugin } from "vite";
 
 type Config = {
   plugins: Array<PostHTMLPlugin<unknown>>;
