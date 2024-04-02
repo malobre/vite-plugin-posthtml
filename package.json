@@ -4,6 +4,17 @@
   "version": "0.1.0",
   "author": "Maël Obréjan <mael.obrejan@protonmail.com>",
   "license": "MIT",
+  "description": "Run PostHTML on vite entry points",
+  "keywords": ["vite-plugin", "posthtml"],
+  "homepage": "https://github.com/malobre/vite-plugin-posthtml",
+  "bugs": {
+    "url": "https://github.com/malobre/vite-plugin-posthtml/issues"
+  },
+  "funding": "https://github.com/sponsors/malobre",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/malobre/vite-plugin-posthtml.git"
+  },
   "type": "module",
   "exports": "./dist/index.js",
   "types": "./dist/index.d.ts",
